@@ -1,0 +1,95 @@
+
+body{
+    font-family: 'roboto', sans-serif;
+    background-color: white;
+    color: rgb(109, 107, 107);
+    font-size: 14px;
+  }
+
+ .txInicio {
+    text-align: left;
+    font-size: 18px;
+  }
+
+  .txItem {
+    text-align: left;
+    font-size: 14px;
+  }
+
+.icon{
+    width: 45px;
+    font-size: 16px;
+}
+
+.modo{
+    width: 35px;
+    height: 35px;
+}
+
+.piePagina{
+    font-size: 12px;
+    line-height: 1.7em;
+}
+
+.piePaginaBold{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 1.7em;
+}
+
+
+.form{
+    padding: 80px 10px 10px 0px ;
+}
+
+.separarItem{
+    padding: 0px 5px 25px 0px ;
+}
+
+.separarBoton{
+    padding: 5px 5px 5px 0px ;
+}
+
+h1{
+    font-family: 'Patrick Hand', sans-serif;
+    font-size: 85px;
+    padding: 15px 5px 5px 3px ;
+    color: #198754;
+}
+
+h3{
+    font-family: 'Patrick Hand', sans-serif;
+    font-size: 190%;
+    padding: 5px 35px 5px 0px ;
+    color: #198754;
+}
+
+h4{
+    font-family: 'Patrick Hand', sans-serif;
+    font-size: 140%;
+    padding: 35px 15px 15px 0px ;
+    color: #198754;
+}
+
+h5{
+    font-family: 'Patrick Hand', sans-serif;
+    font-size: 130%;
+    padding: 15px 0px 15px 0px ;
+    color: #198754;
+}
+
+h6{
+    font-family: 'Patrick Hand', sans-serif;
+    font-size: 110%;
+    padding: 0px 0px 0px 0px ;
+    color: #198754;
+}
+
+.tituloFooter{
+    font-size: 110%;
+    color:white;
+    padding: 0px 0px 0px 0px ;
+}
+
+
+
